@@ -62,6 +62,7 @@
 │   fixing things, and learning along the way."
 │
 └────────────────────────────────────────────────────
+
 {
   "name": "Damar Fikrie",
   "alias": "KarmaSenzu",
